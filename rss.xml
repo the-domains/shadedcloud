@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Shadedcloud]]></title>
         <description><![CDATA[Shadedcloud]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shadedcloud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 16:46:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 16:49:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shadedcloud/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10809ee7-dd72-44bb-b92f-b6c915d02443.jpg">]]></description>
+            <link>https://thegrid.ai/shadedcloud/01696ebd-6ada-4e71-b4c3-9a17f335bf43/index.html</link>
+            <guid isPermaLink="false">01696ebd-6ada-4e71-b4c3-9a17f335bf43</guid>
+            <pubDate>Tue, 29 Mar 2016 16:49:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6420b952-9c2a-4bc5-a4fc-f1a7e736cc6b.jpg">]]></description>
-            <link>undefined67d220c1-2103-47af-aa5d-c44ff5d425d6/index.html</link>
+            <link>https://thegrid.ai/shadedcloud/67d220c1-2103-47af-aa5d-c44ff5d425d6/index.html</link>
             <guid isPermaLink="false">67d220c1-2103-47af-aa5d-c44ff5d425d6</guid>
             <pubDate>Tue, 29 Mar 2016 16:46:03 GMT</pubDate>
         </item>
