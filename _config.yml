@@ -1,28 +1,40 @@
-name: Shadedcloud
-favicon: null
-layout_spectrum: 0.8509213251527399
-typography_spectrum: 0.07747442834079266
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.9978681495413184
-  lightness: 0.505067375022918
-  saturation: 0.6130266315303743
-  rhythmicContrast: 0.9229176007211208
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 1
+  brandStrength: 0.9978681495413184
+  lightness: 0.5050673
+  brandColors:
+    - '#1F1F1F'
+    - '#B3B4B4'
+    - '#FB6502'
+    - '#FFD702'
+    - '#FF6577'
+  rhythmicContrast: 0.3382979
+typography_spectrum: 0.09148936
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: Shadedcloud
