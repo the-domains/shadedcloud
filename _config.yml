@@ -1,3 +1,4 @@
+favicon: null
 analytics:
   twitter: null
   google: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0
-  brandStrength: 0.3170213
-  lightness: 1
+  brandStrength: 0.4872341
+  lightness: 0
   brandColors:
-    - '#160D0C'
-    - '#897F7E'
-    - '#CFBEAB'
-    - '#FFFAE9'
-    - '#FFD05C'
-  rhythmicContrast: 1
+    - '#FFFFFF'
+    - '#125688'
+    - '#131415'
+    - '#CFCFCF'
+    - '#9A9A9A'
+  rhythmicContrast: 0
 typography_spectrum: 0.09148936
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
-favicon: null
 name: Shadedcloud
